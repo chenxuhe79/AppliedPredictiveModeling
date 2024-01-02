@@ -1,0 +1,12 @@
+# files still working on
+Ch13_7*.*
+
+# CSV files
+*.csv
+
+# completed files
+fetchRdata.*
+GrantApplicationData.*
+
+# ipython checkpoints files
+.ipynb_checkpoints/*.*
